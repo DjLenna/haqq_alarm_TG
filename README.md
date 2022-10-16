@@ -3,6 +3,9 @@
 install  python3
 ```
 sudo apt install python3
+git clone https://github.com/DjLenna/haqq_alarm_TG
+cd haqq_alarm_TG
+nano haqq_alarm.py
 ```
 ### Set the required values in the script
 
